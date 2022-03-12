@@ -4561,6 +4561,37 @@ a {
     left: -1rem;
   }
 }
+.cid-sZQkwJf5Bp {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sZQkwJf5Bp .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-sZQkwJf5Bp .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+  position: relative;
+  padding-left: 1rem;
+}
+.cid-sZQkwJf5Bp .counter-container ul li:before {
+  position: absolute;
+  left: -40px;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #6592e6;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 5px;
+  content: "✓";
+}
 .cid-sZHHfX8PNN .navbar-dropdown {
   position: relative !important;
 }
@@ -4894,38 +4925,6 @@ a {
     width: 175%;
     max-width: calc(100% + 2rem);
     left: -1rem;
-  }
-}
-.cid-sZHSykVO73 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sZHSykVO73 .mbr-section-title,
-.cid-sZHSykVO73 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sZHSykVO73 .cost {
-  word-break: normal;
-}
-.cid-sZHSykVO73 .card-wrapper {
-  margin-bottom: 2rem;
-  border-radius: 4px;
-  background: #fafafa;
-}
-.cid-sZHSykVO73 .card-wrapper .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-@media (min-width: 768px) {
-  .cid-sZHSykVO73 .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sZHSykVO73 .card-wrapper {
-    padding: 1rem;
   }
 }
 .cid-sZHHfWJ0TH {
@@ -5366,6 +5365,27 @@ a {
   height: 100%;
   width: 100%;
   object-fit: cover;
+}
+.cid-sZQhUX1IA6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sZQhUX1IA6 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sZQhUX1IA6 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sZQhUX1IA6 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sZQhUX1IA6 form .mbr-section-btn .btn {
+    width: 100%;
+  }
 }
 .cid-sZHSgqum6W {
   padding-top: 5rem;
